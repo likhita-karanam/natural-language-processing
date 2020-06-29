@@ -1,0 +1,8 @@
+tflearn
+tensorflow
+numpy
+opencv-python
+nltk
+random
+json
+
