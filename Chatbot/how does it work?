@@ -1,1 +1,10 @@
+ * In this we have used JavaScript Object Notation(json) file which is an open standard file format, and data interchange format, that uses human-readable text 
+   to store and transmit data. We also used opencv module.
+
+*  At first we need to install all the packages required to implement this project by using the following command:
+  pip install -r requirements.txt
+  
+ * Now we can run our program by using the following command:
+   python main.py
+ 
 
